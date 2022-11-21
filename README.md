@@ -6,7 +6,7 @@
 <p>
  I'm a graduate of BTech in 👩‍💻 Computer Science & Engineering from 🎓 St Thomas Institute for Science and Technology, Kattaikonam, Trivandrum, India under the APJ Abdul Kalam Technological University 🏛.<br>
 I'm a passionate learner 📖 who's always willing to learn and work across different technologies and domains 💡. <br>
-I am a highly motivated and hardworking 😎  individual looking for a 🏅 challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learnings to solve real-life problems 
+I am a highly motivated and hardworking 😎  individual looking for a 🏅 challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learnings to solve real-life problems.<br>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
