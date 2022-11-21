@@ -1,7 +1,10 @@
 ![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/giphy-7.gif)
 
-<h1 align="center">Hi 👋, I'm Monisha A</h1>
+<h1 align="center"> Hi <img width="40" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/> , I'm Monisha A</h1>
 <h3 align="center">A passionate Web developer from Trivandrum, India.</h3>
+
+<p>✨ I'm a graduate of BTech in 👩‍💻 Computer Science & Engineering from 🎓 St Thomas Institute for Science and Technology, Kattaikonam, Trivandrum, India under the APJ Abdul Kalam Technological University 🏛. I'm a passionate learner 📖 who's always willing to learn and work across different technologies and domains 💡. I am a highly motivated and hardworking 😎  individual looking for a 🏅 challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learnings to solve real-life problems ✨.</p>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monisha-chinnu&label=Profile%20views&color=0e75b6&style=flat" alt="monisha-chinnu" /> </p>
