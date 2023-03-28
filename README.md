@@ -13,7 +13,7 @@ I am a highly motivated and hardworking 😎  individual looking for a 🏅 chal
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monisha-chinnu&label=Profile%20views&color=0e75b6&style=flat" alt="monisha-chinnu" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working on **MERN Stack**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C**
 
